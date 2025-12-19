@@ -92,19 +92,7 @@ Généré: "التعلم العميق هو مجال مهم رسبة واعرد �
 3. **Techniques avancées** : Transfer learning, few-shot learning, prompt engineering
 4. **Évaluation renforcée** : Métrics spécifiques arabe, évaluation humaine
 
-##  Installation et Exécution
 
-### Prérequis
-```bash
-# Cloner le repository
-git clone https://github.com/[votre-username]/Lab3_NLP_Arabic.git
-cd Lab3_NLP_Arabic
-
-# Installer les dépendances
-pip install -r requirements.txt
-
-# Télécharger les ressources NLTK
-python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 
 ****Ce laboratoire m'a permis de maîtriser plusieurs compétences essentielles en Deep Learning pour le NLP :
 
